@@ -9,3 +9,5 @@ ubuntu:22.04
 
 espressif/idf:v5.3.1
 --platform=linux/arm64 espressif/idf:v5.3.1
+espressif/idf:v5.1.4
+--platform=linux/arm64 espressif/idf:v5.1.4
