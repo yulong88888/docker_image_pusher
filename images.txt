@@ -1,4 +1,4 @@
 tiryoh/ros-desktop-vnc
-tiryoh/ros-desktop-vnc --platform=linux/arm64
+--platform=linux/arm64 tiryoh/ros-desktop-vnc
 tiryoh/ros2-desktop-vnc
-tiryoh/ros2-desktop-vnc --platform=linux/arm64
+--platform=linux/arm64 tiryoh/ros2-desktop-vnc
