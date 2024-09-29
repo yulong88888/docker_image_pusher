@@ -1,4 +1,8 @@
 tiryoh/ros-desktop-vnc
 --platform=linux/arm64 tiryoh/ros-desktop-vnc
+
 tiryoh/ros2-desktop-vnc
 --platform=linux/arm64 tiryoh/ros2-desktop-vnc
+
+ubuntu:22.04
+--platform=linux/arm64 ubuntu:22.04
